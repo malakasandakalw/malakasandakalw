@@ -20,6 +20,6 @@ I work across frontend, backend, and cloud integrations with an emphasis on clea
 
 ### 📫 Reach Me
 - Email: malakasandakalw@gmail.com  
-- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/malakasandakal/)  
+- LinkedIn: [https://www.linkedin.com/in/malakasandakal/](https://www.linkedin.com/in/malakasandakal/)  
 
 ---
