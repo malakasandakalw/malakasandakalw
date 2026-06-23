@@ -14,9 +14,11 @@ I work across frontend, backend, and cloud integrations with an emphasis on clea
 - **Databases:** MongoDB, PostgreSQL  
 - **Cloud & Tools:** AWS (S3, CloudFront), Firebase, Docker, GitHub Actions  
 
-### 🌱 Currently Improving
+### 🌱 Continuously Improving
 - Full-stack development and performance optimization
 - Writing clean and maintainable code bases
+- DevOps practices and cloud infrastructure management
+- CI/CD pipeline design, automation, and deployment workflows
 
 ### 📫 Reach Me
 - Email: malakasandakalw@gmail.com  
